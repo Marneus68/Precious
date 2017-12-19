@@ -1,0 +1,39 @@
+:root {
+    /* special */
+    --main-foreground:   #ffffff;
+    --main-background:   #000000;
+    --main-cursorColor:  #ffffff;
+
+    /* black */
+    --main-color0:       #202020;
+    --main-color8:       #4d4d4d;
+
+    /* red */
+    --main-color1:       #dc3535;
+    --main-color9:       #ff7272;
+
+    /* green */
+    --main-color2:       #12bd77;
+    --main-color10:      #78fdc6;
+
+    /* yellow */
+    --main-color3:       #d2c533;
+    --main-color11:      #fff8ab;
+
+    /* blue */
+    --main-color4:       #49176d;
+    --main-color12:      #654da0;
+
+    /* magenta */
+    --main-color5:       #81293e;
+    --main-color13:      #c33a80;
+
+    /* cyan */
+    --main-color6:       #1e64a1;
+    --main-color14:      #659ccd;
+
+    /* white */
+    --main-color7:       #adb8bf;
+    --main-color15:      #f3f8fa;
+}
+
