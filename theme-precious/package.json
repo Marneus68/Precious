@@ -1,0 +1,19 @@
+{
+  "name": "theme-precious",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "Precious",
+        "label": "%themeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/precious-color-theme.json"
+      }
+    ]
+  }
+}
